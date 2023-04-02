@@ -1,0 +1,18 @@
+The AML image dataset used here has been taken from the following web site;
+CANCER IMAGING ARCHIVE
+
+
+https://faspex.cancerimagingarchive.net/aspera/faspex/external_deliveries/77?passcode=a6be8bf0a97ddb34fc0913f37b8180d8f7d616a7
+
+Package - AML-Cytomorphology
+From:
+Natasha Honomichl
+To:
+help@cancerimagingarchive.net 
+CC (on download):
+Natasha Honomichl
+Date Sent:
+17 Feb 2021 01:11 PM
+
+AML-Cytomorphology
+
