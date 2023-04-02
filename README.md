@@ -89,8 +89,7 @@ The number of images of the original dataset AML-Cytomorphology is the following
 , which is a typical imbalanced image dataset, and you can see that the numbers of images of 'KSC', 'LYA', 'MMZ' and 'PMB' are very small compared with those of 
 'LYT', 'MYO' and 'NGS'.<br>
 Hence, we have created <b>AML-Cytomorphology_400_360x360</b> dataset from the original dataset to resolve the imbalanced problem
-by using <a href="https://github.com/martian-antillia/ImageDatasetResampler">ImageDatasetResampler</a>.
-
+by using <a href="https://github.com/martian-antillia/ImageDatasetResampler">ImageDatasetResampler</a>. For detail, please see the project <a href="https://github.com/martian-antillia/ImageDatasetResampler/tree/main/projects/AML">AML</a>.
 <pre>
 [('BAS', 395), 
  ('EBO', 390), 
