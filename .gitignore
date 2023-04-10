@@ -14,6 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+efficientnetv2-m/
 lib/
 lib64/
 parts/
